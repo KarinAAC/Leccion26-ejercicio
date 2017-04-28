@@ -1,0 +1,33 @@
+#contenedor{
+  width: 45%;
+  height: 380px;
+  background: #CD5C5C;
+  margin: 50px auto;
+  position: relative;
+}
+#contenedor-clave{
+  width: 97%;
+  height: 160px;
+  background: white;
+  margin-left: 10px;
+  margin-top: 30px;
+  position: absolute;
+}
+#contenedor-respuesta{
+  width: 52%;
+  height: 160px;
+  background: #F7DC6F;
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 205px;
+  outline: 0;
+  border: none;
+  cursor: pointer;
+}
+
+#imagen{
+  width: 28%;
+  height: 120px;
+  margin-left: 401px;
+  margin-top: 205px;
+}
